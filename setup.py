@@ -9,6 +9,6 @@ setup(
     long_description=open('README.md').read(),
     install_requires=['numpy'],
     url='https://github.com/tiyakayaka/hackathon',
-    author='Tiyani',
+    author='Tiyani Myakayaka',
     author_email='<myakayakat@gmail.com>'
 )
